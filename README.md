@@ -1,8 +1,6 @@
 
 The first recognised device for computing was the [Abbacus](https://en.wikipedia.org/wiki/Abacus) at around 2300 - 2700 BC. It enabled people to calculate bigger amounts of data using an apparatus. Also, not storing the information in their head but in an external device, memory.
 
-#### ..Pascaline (TODO)
-
 In 1642 Blaise Pascal, at the age of 19, designed the Pascal's calculator (Pascaline). A mechanical calculator, which was able to do addition and substraction by turning dials. Also, it included a carry mechanism, which can carry a 1 to the other number. The calculator was meant to aid in the work of his father, a tax collector. Even though he achieved a Royal Priviledge at 1649, he only produced 20 machines, which had too big of a cost and complexity.
 
 - [Example 1 Video](https://www.youtube.com/watch?v=3h71HAJWnVU)
